@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  
+}
+
+.App p{
+  border: 5px;
+  /* width: 50px; */
+  align-items: start;
 }
 
 .App-logo {
@@ -37,3 +44,6 @@
     transform: translateY(0px);
   }
 }
+
+
+
